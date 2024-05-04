@@ -1,0 +1,4 @@
+failBack=com.lk.rpccore.fault.tolerant.FailBackTolerantStrategy
+failFast=com.lk.rpccore.fault.tolerant.FailFastTolerantStrategy
+failOver=com.lk.rpccore.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.lk.rpccore.fault.tolerant.FailSafeTolerantStrategy

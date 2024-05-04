@@ -1,0 +1,4 @@
+no=com.lk.rpccore.fault.retry.NoRetryStrategy
+fixedInterval=com.lk.rpccore.fault.retry.FixedIntervalRetryStrategy
+exponentialBackoff=com.lk.rpccore.fault.retry.ExponentialBackoffRetryStrategy
+randomDelay=com.lk.rpccore.fault.retry.RandomDelayRetryStrategy
